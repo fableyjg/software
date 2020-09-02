@@ -1,0 +1,5 @@
+java -jar ClassyShark.jar -export ****.apk
+
+
+
+java -jar ClassyShark.jar -export Tankr.io_v4.9_43.apk
