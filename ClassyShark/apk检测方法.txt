@@ -1,1 +1,4 @@
 java -jar ClassyShark.jar -export ****.apk
+
+1.cd到对应目录，apk和ClassyShark.jar在同一级目录
+2.****.apk 替换成对应apk的名字，注意名字不能用空格
